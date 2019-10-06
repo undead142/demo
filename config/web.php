@@ -58,6 +58,7 @@ $config = [
         'rbac' => 'dektrium\rbac\RbacWebModule',
     ],
     'params' => $params,
+    ///sdfdsfsdfsdf
 ];
 
 if (YII_ENV_DEV) {
